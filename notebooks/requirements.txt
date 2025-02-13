@@ -9,3 +9,4 @@ plotly
 scikit-learn
 statsmodels
 imbalanced-learn
+tensorflow
