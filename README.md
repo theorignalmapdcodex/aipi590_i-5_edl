@@ -1,5 +1,7 @@
 # Testing the Hypothesis of Zebra Stripe-Based Classification in GoogleNet using Saliency Map Analysis
 
+NB: The main report is the `.ipynb` file.
+
 ## Table of Contents
 - [Testing the Hypothesis of Zebra Stripe-Based Classification in GoogleNet using Saliency Map Analysis](#testing-the-hypothesis-of-zebra-stripe-based-classification-in-googlenet-using-saliency-map-analysis)
   - [Table of Contents](#table-of-contents)
